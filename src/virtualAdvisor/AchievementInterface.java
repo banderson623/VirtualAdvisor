@@ -26,7 +26,7 @@ public interface AchievementInterface {
 	 *
 	 *  @param grade The grade to replace the previous one
  	 */
-	void ChangeGrade(char grade);
+	void changeGrade(char grade);
 
 	/**
 	 *  @return The grade the student received from the course
@@ -46,7 +46,7 @@ public interface AchievementInterface {
 	 *  @param grade The grade received when the class was retaken
 	 *  @param semester The semester when the student retook the course
  	 */
-	void Retake(String semester, char grade);
+	void retake(String semester, char grade);
 }
 
 
