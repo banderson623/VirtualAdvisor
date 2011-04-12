@@ -4,3 +4,9 @@ This is an ISU ComS 362 Project
 - Brian Anderson
 
 To design an electronic system (virtual advisor) to help students optimize their class schedule throughout their time at Iowa State University. The student should be able to enter prior course work, enter in desired degree, the maximum number of credits hours per semester and specify if they are a morning or evening person. The virtual advisor system will examine the college's course schedule, compute the prerequisite requirements and return an optimized schedule of classes to the student for the remainder of their time at Iowa State University.
+
+Our Design Documents can be found at:
+
+Iteration 1 (partial) - https://docs.google.com/document/pub?id=1H6vWGyR9GPNSV6QGciKl0l33-m4kAfhZzch7PoRaF1I
+Iteration 2 - https://docs.google.com/document/pub?id=14I74k8FdD_HC7mI8E8LJihMbaN4tkr9DLLWUzttymQQ
+
